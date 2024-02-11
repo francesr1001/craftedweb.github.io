@@ -73,7 +73,7 @@
                                 echo "<h5>You are now registered.</h5><b";
                                 echo "<p>Start tracking your financial journey with Flow</p><br>";
                                 echo "
-                                        <form><button formaction='Index.html' class='btn btn-primary btn-user btn-block' value='log in'>Log in </button></form>";
+                                        <form><button formaction='index.html' class='btn btn-primary btn-user btn-block' value='log in'>Log in </button></form>";
                                 
 
                             } else {
